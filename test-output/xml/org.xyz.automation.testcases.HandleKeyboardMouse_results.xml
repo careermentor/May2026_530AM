@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.324">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc02_handleAlert"
+                time="7.486"
+                classname="org.xyz.automation.testcases.HandleKeyboardMouse">
+            </testcase>
+            <testcase
+                name="tc01_handleFrames"
+                time="3.838"
+                classname="org.xyz.automation.testcases.HandleKeyboardMouse">
+            </testcase>
+</testsuite>

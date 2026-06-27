@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.609">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc01_validate_login_functionality_valid_credential"
+                time="0.609"
+                classname="org.wipro.automation.rediffmail.testcases.LoginScenario">
+            </testcase>
+</testsuite>
